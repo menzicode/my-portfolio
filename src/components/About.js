@@ -9,13 +9,13 @@ export default function About() {
               <br className="hidden lg:inline-block" />I love to do build apps and do fun ML projects.
             </h1>
             <p className="mb-8 leading-relaxed">
-            I am a graduate of Northeastern University's Khoury College of Computer Science, where I received a Master of Science in Computer Science degree, and Colby College, where I received a Bachelor of the Arts in Philosophy with a minor in Economics. 
+            I am a graduate of Northeastern University's Khoury College of Computer Science, where I earned a MS in CS, and Colby College, where I earned a BA in Philosophy with a minor in Economics. 
 
-My graduate school experience was focused largely on AI and machine learning, with research done primarily in the fields of computer vision and natural language processing. My work in AI includes developing convolutional neural networks for image classification, generative adversarial networks for image generation, and transformers for time series prediction.
+My graduate school experience was focused largely on AI and machine learning, where I worked on research for things like color constancy in images and building new kinds of GANs. I stay up-to-date with the latest developments in AI/ML (like applying transformers to all kinds of problems).
 
-During graduate school, I completed a Co-Op at Tilson, a telecommunications firm, as an enterprise software engineer. My role at Tilson involved developing custom software for various business units as well as architecting and deploying systems to the cloud as the company transitioned to Microsoft Azure. 
+During graduate school I worked as a Software Engineer for Tilson, a telecommunications firm. My role at Tilson involved developing custom software for various business units as well as architecting and deploying systems to the cloud as the company transitioned to Microsoft Azure. 
 
-My primary programming languages are Python, Java, and C++. I am experienced with cloud computing, AI/ML research, machine learning DevOps, mobile app development, distributed systems, computer vision, and natural language processing.
+My primary programming languages are Python, Java, and C++. I am experienced with cloud computing, AI/ML systems, DevOps, mobile app development, distributed systems, and many facets of computer vision.
             </p>
             <div className="flex justify-center">
               <a
